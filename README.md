@@ -14,3 +14,17 @@ Function Generator – for signal simulation and testing
 Oscilloscope – for analog waveform validation
 
 MATLAB – for Real-time data plotting via serial communication, Muscle activity classification or pattern recognition.
+
+PCB Design Tools (KiCad)
+
+Serial/Cloud Communication – optionally via ThingSpeak, MQTT.
+
+## Applications:
+
+Medical EMG Diagnostics – detect neuromuscular disorders (e.g., ALS, muscular dystrophy)
+
+Biomedical Research – signal processing and machine learning using MATLAB
+
+Sports and Performance Analytics – assess muscle fatigue and strength
+
+Human-Machine Interaction – control devices using EMG-based gestures
